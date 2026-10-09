@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Harmless sandbox check
-        run: printf '%s\n' 'Sandbox revision 1; no deployment or application code.'
+        run: printf '%s\n' 'Sandbox revision 2; no deployment or application code.'
